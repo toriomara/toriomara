@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+## Hey! 👋
+I'm Vladimir, a 18 years old web developer from Russia.
+
+- 🧭
+
+## Skills
+- 👨‍💻 JavaScript
+- ⚙️ React
+- 👁️ SASS, CSS, Styled Components
+- 💽 Mongo
+
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@vbudkevich](https://www.linkedin.com/in/vbudkevich/) on LinkedIn
+- [@vladimirbudkevich](https://www.facebook.com/profile.php?id=100008880375958) on Facebook
+- [toriomara#3625](./) on Discord
+
 <!--
 **toriomara/toriomara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
