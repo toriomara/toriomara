@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Vladimir, a 40 years old web developer from Russia
+I'm Vladimir, a web developer
 
 ## Skills
 - 👨‍💻 JavaScript
