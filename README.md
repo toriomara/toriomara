@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="t.me/toriomara">
+  <a href="[@toriomara]http://t-do.ru/toriomara">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/vbudkevich/">
@@ -38,13 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-- JavaScript
-- React
-- MongoDB
-- Next JS
-- Node JS
-- Express
-- REST API
 
 ## Изучаю на данный момент:
 <div>
