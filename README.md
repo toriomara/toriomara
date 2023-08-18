@@ -48,7 +48,7 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toriomara)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toriomara)](https://github.com/toriomara/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toriomara&show_icons=true&bg_color=00000000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toriomara&theme=dark)](https://git.io/streak-stats)
 ### Codewars
 [![codewars](https://www.codewars.com/users/toriomara/badges/large)](https://www.codewars.com/users/toriomara) 
