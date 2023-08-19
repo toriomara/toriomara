@@ -3,6 +3,9 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="mailto:budkevich.vladimir@gmail.com">
+    <img src="https://img.shields.io/badge/budkevich.vladimir@gmail.com-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Mail"/>
+  </a>
   <a href="https://roslovets.github.io/tg/#https://t.me/toriomara">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
